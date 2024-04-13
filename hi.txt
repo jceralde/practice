@@ -1,4 +1,4 @@
 Hi Git!
 Git is awesome ;)
 
-linus
+linus torvalds
