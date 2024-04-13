@@ -1,2 +1,4 @@
-hi
-test
+Hi Git!
+Git is awesome ;)
+
+linus
